@@ -34,3 +34,7 @@ Important links:
 - [Terraform Documentation](https://developer.hashicorp.com/terraform/language)
 - [Providers](https://registry.terraform.io/browse/providers)
 - [Modules](https://registry.terraform.io/browse/modules)
+
+Important vs code extentions that could help.
+![cover](img/vs_code_extentions.png)
+![cover](img/vs_code_extentions_2.png)
