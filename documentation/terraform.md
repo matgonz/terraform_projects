@@ -1,0 +1,13 @@
+### Block Types
+- terraform
+- provider
+- resource
+- data
+- module
+- variable
+- output
+- locals
+- import
+- moved
+- removed
+- check

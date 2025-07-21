@@ -29,3 +29,8 @@ It's necessary install WSL2 if you are Windows user, to do it [click here](https
 Here we will install Terraform using WSL2. [Click here to install Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform).
 
 - To select the specific terraform version to install, you can use "sudo apt policy terraform" to list all versions, and then run "sudo apt-get install terraform=VERSION"
+
+Important links:
+- [Terraform Documentation](https://developer.hashicorp.com/terraform/language)
+- [Providers](https://registry.terraform.io/browse/providers)
+- [Modules](https://registry.terraform.io/browse/modules)
