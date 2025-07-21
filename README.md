@@ -35,6 +35,6 @@ Important links:
 - [Providers](https://registry.terraform.io/browse/providers)
 - [Modules](https://registry.terraform.io/browse/modules)
 
-Important vs code extentions that could help.
+Important vs code extentions that could help.<br>
 ![cover](img/vs_code_extentions.png) <br>
 ![cover](img/vs_code_extentions_2.png)
