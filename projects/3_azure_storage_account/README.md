@@ -1,0 +1,1 @@
+![Azure Storage Account](../../img/azure_storage_account_structure.png)
