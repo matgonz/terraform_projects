@@ -7,7 +7,7 @@ terraform {
 
   required_providers {
     aws = {
-      source = "hashicorp/aws"
+      source  = "hashicorp/aws"
       version = "6.4.0"
     }
   }
@@ -21,8 +21,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-        owner = "mgonzalez"
-        managed-by = "terraform"
+      owner      = "mgonzalez"
+      managed-by = "terraform"
     }
   }
 }

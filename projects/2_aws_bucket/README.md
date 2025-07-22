@@ -1,18 +1,4 @@
-### Block Types
-- terraform
-- provider
-- resource
-- data
-- module
-- variable
-- output
-- locals
-- import
-- moved
-- removed
-- check
-
-### Terraform commands:
+Terraform commands:
 - terraform providers
 - terraform init
 - terraform fmt -check
